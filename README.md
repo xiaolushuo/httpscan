@@ -5,15 +5,19 @@ http://www.tiaozhanziwo.com/
 
 # 更新日志
 
-<b>Httpscan Version：1.8（功能预告）</b>
+<b>Httpscan Version：1.9（功能预告）</b>
 
 解决内存负载的问题；
 
-修复部分代码及功能函数；
-
 添加web探测的进度条模块，增强程序的人性化设计；
 
+
+<b>Httpscan Version：1.8</b>
+
+修复部分代码及功能函数；
+
 根据端口特征过滤http请求，降低测试链接数量，提升效率；
+
 
 <b>Httpscan Version：1.7</b>
 
